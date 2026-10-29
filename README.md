@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
