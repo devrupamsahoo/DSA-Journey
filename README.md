@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0001-two-sum) |
 | [0724-find-pivot-index](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [1441-build-an-array-with-stack-operations](https://github.com/devrupamsahoo/DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1991-find-the-middle-index-in-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/1991-find-the-middle-index-in-array) |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
