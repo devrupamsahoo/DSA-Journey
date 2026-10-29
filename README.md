@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/devrupamsahoo/DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
