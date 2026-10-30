@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [1441-build-an-array-with-stack-operations](https://github.com/devrupamsahoo/DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1991-find-the-middle-index-in-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
