@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0724-find-pivot-index) |
@@ -102,4 +103,20 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0223-rectangle-area](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
