@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0155-min-stack) |
 | [1441-build-an-array-with-stack-operations](https://github.com/devrupamsahoo/DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
+| [2487-remove-nodes-from-linked-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
