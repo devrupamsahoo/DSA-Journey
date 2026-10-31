@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0069-sqrtx) |
+| [0223-rectangle-area](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0223-rectangle-area) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/2487-remove-nodes-from-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
