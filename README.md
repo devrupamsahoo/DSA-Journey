@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0283-move-zeroes) |
 ## Quicksort
 |  |
 | ------- |
