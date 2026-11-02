@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/devrupamsahoo/DSA-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/devrupamsahoo/DSA-Journey/tree/master/0283-move-zeroes) |
 ## Quicksort
